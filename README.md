@@ -12,7 +12,7 @@ This project implements the **QuickSort algorithm** to sort a list of student re
 ## Programming Languages & Paradigms
 | Language | Paradigm       | File Name         |
 |----------|----------------|-------------------|
-| Python   | Imperative/OOP | `quicksort_dual.py` |
+| Python   | Imperative/OOP | `QuickSortDual.py` |
 | Haskell  | Functional      | `QuickSortDual.hs`  |
 
 ## Algorithm Used
@@ -24,7 +24,7 @@ This project implements the **QuickSort algorithm** to sort a list of student re
 1. Make sure you have Python 3 installed.
 2. Open terminal and run:
    ```bash
-   python quicksort_dual.py
+   python QuickSortDual.py
    ```
 3. When prompted, enter:
    - `asc` → for ascending order
